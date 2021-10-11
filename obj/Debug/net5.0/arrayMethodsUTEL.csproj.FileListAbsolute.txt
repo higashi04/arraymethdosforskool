@@ -1,0 +1,16 @@
+C:\Users\higas\desktop\dosostenido\arraymethodsutel\arraymethodsutel\bin\Debug\net5.0\arrayMethodsUTEL.exe
+C:\Users\higas\desktop\dosostenido\arraymethodsutel\arraymethodsutel\bin\Debug\net5.0\arrayMethodsUTEL.deps.json
+C:\Users\higas\desktop\dosostenido\arraymethodsutel\arraymethodsutel\bin\Debug\net5.0\arrayMethodsUTEL.runtimeconfig.json
+C:\Users\higas\desktop\dosostenido\arraymethodsutel\arraymethodsutel\bin\Debug\net5.0\arrayMethodsUTEL.runtimeconfig.dev.json
+C:\Users\higas\desktop\dosostenido\arraymethodsutel\arraymethodsutel\bin\Debug\net5.0\arrayMethodsUTEL.dll
+C:\Users\higas\desktop\dosostenido\arraymethodsutel\arraymethodsutel\bin\Debug\net5.0\ref\arrayMethodsUTEL.dll
+C:\Users\higas\desktop\dosostenido\arraymethodsutel\arraymethodsutel\bin\Debug\net5.0\arrayMethodsUTEL.pdb
+C:\Users\higas\desktop\dosostenido\arraymethodsutel\arraymethodsutel\obj\Debug\net5.0\arrayMethodsUTEL.csproj.AssemblyReference.cache
+C:\Users\higas\desktop\dosostenido\arraymethodsutel\arraymethodsutel\obj\Debug\net5.0\arrayMethodsUTEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\higas\desktop\dosostenido\arraymethodsutel\arraymethodsutel\obj\Debug\net5.0\arrayMethodsUTEL.AssemblyInfoInputs.cache
+C:\Users\higas\desktop\dosostenido\arraymethodsutel\arraymethodsutel\obj\Debug\net5.0\arrayMethodsUTEL.AssemblyInfo.cs
+C:\Users\higas\desktop\dosostenido\arraymethodsutel\arraymethodsutel\obj\Debug\net5.0\arrayMethodsUTEL.csproj.CoreCompileInputs.cache
+C:\Users\higas\desktop\dosostenido\arraymethodsutel\arraymethodsutel\obj\Debug\net5.0\arrayMethodsUTEL.dll
+C:\Users\higas\desktop\dosostenido\arraymethodsutel\arraymethodsutel\obj\Debug\net5.0\ref\arrayMethodsUTEL.dll
+C:\Users\higas\desktop\dosostenido\arraymethodsutel\arraymethodsutel\obj\Debug\net5.0\arrayMethodsUTEL.pdb
+C:\Users\higas\desktop\dosostenido\arraymethodsutel\arraymethodsutel\obj\Debug\net5.0\arrayMethodsUTEL.genruntimeconfig.cache
