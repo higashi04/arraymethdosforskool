@@ -12,14 +12,20 @@ namespace arrayMethodsUTEL
            {
                 int[,] rectArray = new int[userValue,userValue]; //la variable que registra el número dado por el usuario es usada para definir el tamaño del arreglo
                 Console.WriteLine("Los valores del arreglo son:");
-                for (int file = 0; file < rectArray.GetLength(0); file++)
-                {   
-                    if (file > 0) {Console.WriteLine(" " + file);}; //Se utiliza un condicional para evitar que se imprima la primer línea con valor de 0
-                    for (int column = 0; column < rectArray.GetLength(1); column++)
+                for (int row = 0; row < userValue; row++)
+                {
+                    for (int column = 0; column < userValue; column++)
                     {
-                        int colValue = column + file + 1;
-                        Console.Write(" " + colValue );
+                        rectArray[row, column] = column + row + 1;
                     };
+                };
+                    for (int row = 0; row < rectArray.GetLength(0); row++)
+                    { 
+                        for (int column = 0; column < rectArray.GetLength(1); column++)
+                        {
+                            Console.Write(" " + rectArray[row, column]);
+                        };
+                    Console.WriteLine();
                 };
                 Console.ReadKey();
            } 
